@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711178271821",
+    "project_id": "trackdriver-21764",
+    "storage_bucket": "trackdriver-21764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711178271821:android:618441af9cf736c868f004",
+        "android_client_info": {
+          "package_name": "com.gps.track_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ3lJDvAJU70XtFbcRtEYebHYeFfS-b6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
